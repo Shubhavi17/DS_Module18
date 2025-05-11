@@ -103,7 +103,3 @@ return(min_cost);
 Thus, the C program to implement Prim's Algorithm for finding Total Cost of tree is implemented successfully.
 
 
-
-
-## Result:
-Thus, the C program to implement Prim's Algorithm for finding Total Cost of tree is implemented successfully.
